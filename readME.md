@@ -1,3 +1,5 @@
+# 📊 ExportDB.py
+
 # Descrição
 
 ExportDB.py é um programa de automação (RPA) que acessa um banco de dados, seleciona e filtra tabelas com consultas SQL baseadas em datas especificadas no código, relaciona tabelas com JOIN e exporta os resultados como arquivos JSON. Além disso, ele cria um arquivo de log em formato TXT em cada pasta especificada no código, registrando a última atualização dos dados com um nome de arquivo baseado na data e hora da atualização.
